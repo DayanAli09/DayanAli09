@@ -87,8 +87,8 @@ Learning. Breaking (in labs). Documenting. 🔁
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DayanAli09-181717?style=for-the-badge&logo=github)](https://github.com/DayanAli09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dayanali)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alidayan449@gmail.com)
 
 <br>
 
